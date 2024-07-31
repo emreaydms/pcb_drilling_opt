@@ -100,7 +100,3 @@ Each algorithm has its strengths and weaknesses. GA gives the best results but i
 6. https://medium.com/@francis.allanah/travelling-salesman-problem-using-simulated-annealing-f547a71ab3c6.
 7. N.M. Razali, J. Geraghty, “Genetic Algorithms Performance Between Different Selection Strategy in Solving TSP,” 2010.
 """
-
-# Write the content to a markdown file
-with open('/mnt/data/README.md', 'w') as file:
-    file.write(readme_content)
